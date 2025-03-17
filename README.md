@@ -37,7 +37,7 @@ Here are some of the technologies and tools I work with:
 Here are some of my favorite projects:
 
 - **[Alternative Water Source Project](https://github.com/nonokazicele5/groundwater-source-project)**: This project leverages geospatial analysis, machine learning, and optimization techniques to determine the best locations for alternative water sources, such as boreholes. Using GIS tools, predictive modeling, and data visualization, the system aims to enhance water accessibility and sustainability in resource-limited areas.
-- **[Project 2](https://github.com/yourusername/project2)**: Another cool project with a short description.
+
 
 ---
 
